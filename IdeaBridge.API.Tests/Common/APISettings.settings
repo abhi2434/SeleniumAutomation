@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Automation.API.Tests.Common" GeneratedClassName="APISettings">
+  <Profiles />
+  <Settings>
+    <Setting Name="BaseURL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://tafeuatapi.Automation.co</Value>
+    </Setting>
+    <Setting Name="UserId" Type="System.String" Scope="User">
+      <Value Profile="(Default)">emp001</Value>
+    </Setting>
+    <Setting Name="Password" Type="System.String" Scope="User">
+      <Value Profile="(Default)">adm1n15tr4t0r</Value>
+    </Setting>
+    <Setting Name="DataFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\AbhishekSur\Documents\TestCases.xlsx</Value>
+    </Setting>
+    <Setting Name="FolderUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\AbhishekSur\Documents\APIReports</Value>
+    </Setting>
+    <Setting Name="DbConnectionString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=198.12.158.120\mssqlserver2014,1435;Initial Catalog=Tafe;Persist Security Info=True;User ID=TAFE;Password=adm1n15tr4t0r</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

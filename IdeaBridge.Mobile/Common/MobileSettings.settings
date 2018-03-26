@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Automation.Mobile.Common" GeneratedClassName="MobileSettings">
+  <Profiles />
+  <Settings>
+    <Setting Name="FolderUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\AbhishekSur\Documents\APIReports</Value>
+    </Setting>
+    <Setting Name="DataFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\AbhishekSur\Documents\Ideas\DataFiles\MTestCases.xlsx</Value>
+    </Setting>
+    <Setting Name="PackageName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Automation.www</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
