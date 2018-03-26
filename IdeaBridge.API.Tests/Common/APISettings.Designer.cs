@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Automation.API.Tests.Common {
+namespace IdeaBridge.API.Tests.Common {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
@@ -25,7 +25,7 @@ namespace Automation.API.Tests.Common {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("http://tafeuatapi.Automation.co")]
+        [global::System.Configuration.DefaultSettingValueAttribute("http://webapp.Automation.co")]
         public string BaseURL {
             get {
                 return ((string)(this["BaseURL"]));

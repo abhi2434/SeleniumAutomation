@@ -1,9 +1,9 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
-<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Automation.API.Tests.Common" GeneratedClassName="APISettings">
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="IdeaBridge.API.Tests.Common" GeneratedClassName="APISettings">
   <Profiles />
   <Settings>
     <Setting Name="BaseURL" Type="System.String" Scope="User">
-      <Value Profile="(Default)">http://tafeuatapi.Automation.co</Value>
+      <Value Profile="(Default)">http://webapp.Automation.co</Value>
     </Setting>
     <Setting Name="UserId" Type="System.String" Scope="User">
       <Value Profile="(Default)">emp001</Value>
