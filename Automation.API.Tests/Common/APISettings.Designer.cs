@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace IdeaBridge.API.Tests.Common {
+namespace Automation.API.Tests.Common {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
